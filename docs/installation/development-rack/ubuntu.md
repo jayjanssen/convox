@@ -32,7 +32,7 @@
 
 Install a local Rack named `dev`.
 
-    $ convox rack install local dev
+    $ convox rack install --name=dev local
 
 ## DNS Setup
 
